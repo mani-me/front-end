@@ -18,6 +18,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_5__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! styled-components */ "./node_modules/styled-components/dist/styled-components.browser.esm.js");
+/* harmony import */ var _static_index_css__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../static/index.css */ "./static/index.css");
+/* harmony import */ var _static_index_css__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(_static_index_css__WEBPACK_IMPORTED_MODULE_7__);
 
 
 
@@ -26,10 +28,12 @@ __webpack_require__.r(__webpack_exports__);
 var _jsxFileName = "/Users/home/Desktop/skeleton/front-end/pages/index.js";
 
 
+
 var Div = styled_components__WEBPACK_IMPORTED_MODULE_6__["default"].div.withConfig({
   displayName: "pages__Div",
   componentId: "sc-4uwwe5-0"
-})([""]);
+})([""]); // Dress image source
+// https://pc-ap.rtrcdn.com/productimages/back/270x/51/DOB8.jpg
 
 var Index =
 /*#__PURE__*/
@@ -46,12 +50,13 @@ function (_React$Component) {
     key: "render",
     value: function render() {
       return react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "Home",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 10
+          lineNumber: 14
         },
         __self: this
-      });
+      }, "d");
     }
   }]);
 
@@ -63,4 +68,4 @@ function (_React$Component) {
 /***/ })
 
 })
-//# sourceMappingURL=index.js.fb6c5777d7926ad1e184.hot-update.js.map
+//# sourceMappingURL=index.js.45d49bcceb5838ce2136.hot-update.js.map

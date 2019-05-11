@@ -389,12 +389,15 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_5__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! styled-components */ "styled-components");
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_6__);
+/* harmony import */ var _static_index_css__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../static/index.css */ "./static/index.css");
+/* harmony import */ var _static_index_css__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(_static_index_css__WEBPACK_IMPORTED_MODULE_7__);
 
 
 
 
 
 var _jsxFileName = "/Users/home/Desktop/skeleton/front-end/pages/index.js";
+
 
 
 var Div = styled_components__WEBPACK_IMPORTED_MODULE_6___default.a.div.withConfig({
@@ -420,7 +423,7 @@ function (_React$Component) {
       return react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 13
+          lineNumber: 14
         },
         __self: this
       });
@@ -429,6 +432,17 @@ function (_React$Component) {
 
   return Index;
 }(react__WEBPACK_IMPORTED_MODULE_5___default.a.Component);
+
+
+
+/***/ }),
+
+/***/ "./static/index.css":
+/*!**************************!*\
+  !*** ./static/index.css ***!
+  \**************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
 
 
 

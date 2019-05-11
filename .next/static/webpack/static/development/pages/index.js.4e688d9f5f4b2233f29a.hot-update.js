@@ -18,12 +18,15 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_5__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! styled-components */ "./node_modules/styled-components/dist/styled-components.browser.esm.js");
+/* harmony import */ var _index_css__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../index.css */ "./index.css");
+/* harmony import */ var _index_css__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(_index_css__WEBPACK_IMPORTED_MODULE_7__);
 
 
 
 
 
 var _jsxFileName = "/Users/home/Desktop/skeleton/front-end/pages/index.js";
+
 
 
 var Div = styled_components__WEBPACK_IMPORTED_MODULE_6__["default"].div.withConfig({
@@ -47,12 +50,13 @@ function (_React$Component) {
     key: "render",
     value: function render() {
       return react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "Home",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 13
+          lineNumber: 14
         },
         __self: this
-      });
+      }, "ds");
     }
   }]);
 
@@ -64,4 +68,4 @@ function (_React$Component) {
 /***/ })
 
 })
-//# sourceMappingURL=index.js.9b4aed63d04b0aa9d1d4.hot-update.js.map
+//# sourceMappingURL=index.js.4e688d9f5f4b2233f29a.hot-update.js.map

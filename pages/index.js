@@ -1,5 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
+import '../static/index.css';
 
 const Div = styled.div`
 `;
